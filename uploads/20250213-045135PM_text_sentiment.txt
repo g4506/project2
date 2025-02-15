@@ -1,0 +1,4 @@
+Original Text: everything okay
+Sentiment: Neutral
+Sentiment Score: 0.6069999933242798
+Sentiment Magnitude: 0.7170000076293945

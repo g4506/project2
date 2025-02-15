@@ -1,0 +1,4 @@
+everything okay
+Sentiment: Neutral
+Sentiment Score: 0.6019999980926514
+Sentiment Magnitude: 0.7129999995231628

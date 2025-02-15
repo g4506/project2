@@ -1,0 +1,4 @@
+hello I'm doing good I'm doing good
+Sentiment: Neutral
+Sentiment Score: 0.7689999938011169
+Sentiment Magnitude: 0.7960000038146973
